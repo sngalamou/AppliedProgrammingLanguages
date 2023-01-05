@@ -1,0 +1,18 @@
+{
+    "quiz1": {
+        "question1": {
+            "question": "What's 1+1?",
+            "choices": "1,2,3,4",
+            "Answers": "2"
+        },
+        "question2": {
+            "question": "What's 2+2?",
+            "choices": "2,3,4,5",
+            "Answers": "4"
+        },"question3": {
+            "question": "What's 3+3?",
+            "choices": "3,4,5,6",
+            "Answers": "6"
+        }
+    }
+}
